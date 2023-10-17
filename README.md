@@ -1,0 +1,2 @@
+# plans
+ only html & css
